@@ -35,3 +35,28 @@ body {
     text-align: center;
     box-shadow: 0 4px 12px #ccddee;
 }
+.avatar {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid var(--main-color);
+}
+
+h1 {
+    color: var(--main-color);
+    font-size: 26px;
+}
+
+.course {
+    color: #555;
+    font-size: 16px;
+}
+
+hr {
+    border: 1px solid #dce8f5;
+}
+
+h3 {
+    color: var(--main-color);
+}
