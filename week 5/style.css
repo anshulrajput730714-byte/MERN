@@ -1,0 +1,104 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Club</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+    <style>
+    body {
+        background-color: #f0f8ff;
+        font-family: Arial, sans-serif;
+    }
+
+    h1 {
+        color: navy;
+        text-align: center;
+    }
+</style>
+
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    h1 {
+        color: navy;
+    }
+
+    .card {
+        background-color: white;
+        padding: 20px;
+    }
+
+    #hero {
+        text-align: center;
+    }
+</style>
+
+<h1 id="hero">Welcome to Tech Club</h1>
+
+<div class="card">
+    <p>Join our college events!</p>
+</div>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.6;
+        color: #333333;
+        background-color: #f0f8ff;
+    }
+
+    h1 {
+        font-size: 32px;
+        color: #003366;
+    }
+
+    p {
+        color: #444444;
+    }
+
+    button {
+        background-color: green;
+        color: white;
+        padding: 10px 20px;
+    }
+</style>
+<style>
+    :root {
+        --main-color: #003366;
+        --bg-color: #f0f8ff;
+        --card-color: white;
+        --spacing: 20px;
+    }
+
+    body {
+        background-color: var(--bg-color);
+        font-family: Arial, sans-serif;
+        padding: var(--spacing);
+    }
+
+    h1 {
+        color: var(--main-color);
+    }
+
+    .card {
+        background-color: var(--card-color);
+        padding: var(--spacing);
+    }
+</style>
+ </section>
+
+    <section class="card">
+        <h2>Why I Chose These Colours</h2>
+        <p>1. Blue gives the Tech Club a professional and modern look.</p>
+        <p>2. Light blue creates a calm background for the page.</p>
+        <p>3. White cards make the content clear and easy to read.</p>
+    </section>
