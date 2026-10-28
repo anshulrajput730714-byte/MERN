@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --main-color: #003366;
+    --bg-color: #eef5ff;
+    --card-color: white;
+    --spacing: 20px;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: var(--bg-color);
+    color: #333;
+}
